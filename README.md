@@ -1,1 +1,1 @@
-# WDP
+# WDP Konrad Trzciński
