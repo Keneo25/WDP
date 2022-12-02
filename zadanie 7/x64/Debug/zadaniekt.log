@@ -1,0 +1,12 @@
+﻿  zadaniekt.cpp
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(120,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(142,28): error C2660: "zad4": funkcja nie przyjmuje 2 argumentów
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(111,6): message : zobacz deklarację „zad4”
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(146,6): error C2374: "wynik": zmiana definicji; wielokrotna inicjalizacja
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(142): message : zobacz deklarację „wynik”
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(146,29): error C2660: "zad4": funkcja nie przyjmuje 2 argumentów
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(111,6): message : zobacz deklarację „zad4”
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(150,6): error C2374: "wynik": zmiana definicji; wielokrotna inicjalizacja
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(142): message : zobacz deklarację „wynik”
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(150,29): error C2660: "zad4": funkcja nie przyjmuje 2 argumentów
+C:\Users\local\Desktop\zadaniekt\zadaniekt.cpp(111,6): message : zobacz deklarację „zad4”
